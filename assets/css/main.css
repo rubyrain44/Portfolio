@@ -1668,3 +1668,14 @@ input, select, textarea {
 	border-radius: 75%;
 }
 
+.contactContent {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.cranePic {
+	width: 100%;
+	height: 100%;
+	margin: 10px;
+}
